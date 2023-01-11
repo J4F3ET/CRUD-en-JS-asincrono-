@@ -16,3 +16,6 @@ Read   - GET
 Update - PUT/PATCH
 Delete - DELETE
 
+
+"async" permite definir una funcion como asincrona y permite omitir el then, ya que lo maneja DETRO de la funcion ASYNC
+se dene usar junto a "await" y permite especificar que funcion va a esperar la funcion asincrona. Tambien para usar el "casht" se usa try casht.
